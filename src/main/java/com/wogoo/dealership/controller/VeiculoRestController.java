@@ -7,4 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("veiculos")
 public class VeiculoRestController {
 
+    //TODO: Implementar endpoints e reqs. da classe veiculo
+
 }
